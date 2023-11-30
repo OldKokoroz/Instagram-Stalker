@@ -1,0 +1,10 @@
+pwinput
+instabot
+pytube
+termcolor
+qrcode
+pandas_datareader
+matplotlib.pyplot
+mplfinance
+datetime
+
